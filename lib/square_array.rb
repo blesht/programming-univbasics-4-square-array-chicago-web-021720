@@ -1,7 +1,7 @@
-def square_array(numbers)
+def square_array(array)
   i = 0 
   new_numbers = []
-  while numbers[i] do
+  while array[i] do
     new_numbers<<array[i]**2
     i += 1
   end
