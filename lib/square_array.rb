@@ -3,4 +3,7 @@ def square_array(array)
   while array[i] do
     array[i] = array[i]**2 
     i += 1
+  end
 end
+  
+  
