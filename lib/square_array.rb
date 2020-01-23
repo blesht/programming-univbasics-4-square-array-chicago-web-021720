@@ -4,5 +4,5 @@ def square_array(numbers)
     numbers[i] = numbers[i]**2 
     i += 1 
   end
-  puts numbers
+  numbers
 end
